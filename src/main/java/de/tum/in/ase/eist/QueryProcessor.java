@@ -14,6 +14,7 @@ public class QueryProcessor {
 
         } else if (query.contains("name")) {
             return "Eleni";
+
         }
 
         return query;
